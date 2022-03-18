@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+Languages and Tools:
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=lightgrey"/> <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=yellow"/> <img src="https://img.shields.io/badge/javaScript-F7DF1E?style=flat-square&logo=javaScript&logoColor=blue"/> <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=flat-square&logo=Microsoft SQL Server&logoColor=yellowgreen"/>
+
+<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=yellowgreen"/> <img src="https://img.shields.io/badge/PyCharm-#000000?style=flat-square&logo=PyCharm&logoColor=yellowgreen"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=yellowgreen"/>
 
